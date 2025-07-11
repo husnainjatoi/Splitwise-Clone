@@ -21,7 +21,7 @@ A simple command-line application that mimics the core functionality of Splitwis
 - Add and split expenses
 - View balance summaries
 
----
+
 
 ## 🧩 Feature Breakdown
 
@@ -44,7 +44,7 @@ A simple command-line application that mimics the core functionality of Splitwis
 - View individual and group balance summaries
 - Data retrieved and formatted from saved file
 
----
+
 
 ## 🛠 Tech Stack
 - C++
@@ -52,9 +52,9 @@ A simple command-line application that mimics the core functionality of Splitwis
 - Console-based interface
 - Structured using functions and arrays
 
----
+
 
 ## 📁 How to Run
 1. Clone the repo
-2. Compile using any C++ compiler (e.g., `g++ splitwise.cpp -o splitwise`)
-3. Run: `./splitwise`
+2. Compile using any C++ compiler (e.g., `g++ splitwise-clone.cpp -o splitwise-clone`)
+3. Run: `./splitwise-clone`
