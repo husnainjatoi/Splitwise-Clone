@@ -67,6 +67,8 @@ g++ splitwise-clone.cpp -o splitwise-clone
   <br><br>
   <img src="screenshots/add_group.png" width="600" alt="Group Creation" />
   <br><br>
+  <img src="screenshots/add_expense.png" width="600" alt="Add Expense" />
+  <br><br>
   <img src="screenshots/balances.png" width="600" alt="Balance Summary" />
 </p>
 
