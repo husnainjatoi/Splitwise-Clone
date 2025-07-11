@@ -2,7 +2,7 @@
 
 A simple command-line application that mimics the core functionality of Splitwise — helping users manage shared expenses, groups, and balances. Built using C++ with persistent data storage via file I/O.
 
----
+
 
 ## 🔑 Main Features
 - 👥 User registration and login
@@ -11,7 +11,7 @@ A simple command-line application that mimics the core functionality of Splitwis
 - 📊 Balance calculation and summary display
 - 💾 Persistent file storage and retrieval
 
----
+
 
 ## 👤 Types of Users
 
